@@ -286,7 +286,6 @@ src
 **Dharamsoth Pavan Nayak**
 
 - GitHub: https://github.com/PAVANNAYAK45
-- LinkedIn: https://www.linkedin.com/in/dharamsoth-pavan-nayak-733194265
 
 ---
 
